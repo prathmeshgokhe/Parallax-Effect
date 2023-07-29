@@ -15,7 +15,7 @@ const TextBlock = () => {
 
                         But when something strange draws you out of your lookout tower and into the world below, you'll explore a wild and unknown environment, facing questions and making interpersonal choices that can build or destroy the only meaningful relationship you have.</p>
                     <div id='textblock-devsense'></div>
-                    <div id='textblock-footer'>Designed by me</div>
+                    <div id='textblock-footer'>Designed by `"Definitely not me"`</div>
                 </div>
             </div>
 
